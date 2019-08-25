@@ -1,0 +1,13 @@
+{
+  "id": "pomotodo",
+  "name": "Pomotodo",
+  "version": "1.0.0",
+  "description": "Pomotodo",
+  "main": "index.js",
+  "author": "Rafael Suazo <rafaelsuazoh@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/RZzero/FranzPomotodo",
+  "config": {
+    "serviceURL": "https://pomotodo.com/app/"
+  }
+}
